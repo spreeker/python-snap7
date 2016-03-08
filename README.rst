@@ -7,11 +7,14 @@ with Siemens S7 PLCs.
 
 python-snap7 support Python 2.7 and 3.4+, Windows Linux and OS X.
 
-.. image:: https://travis-ci.org/gijzelaerr/python-snap7.png?branch=master 
+.. image:: https://travis-ci.org/gijzelaerr/python-snap7.png?branch=master
   :target: https://travis-ci.org/gijzelaerr/python-snap7
 
 .. image:: http://codecov.io/github/gijzelaerr/python-snap7/coverage.svg?branch=master
   :target: http://codecov.io/github/gijzelaerr/python-snap7?branch=master
+
+.. image:: https://badges.gitter.im/gijzelaerr/python-snap7.png
+  :target: https://gitter.im/gijzelaerr/python-snap7
 
 The full documentation is available on `Read The Docs <http://python-snap7.readthedocs.org/en/latest/>`_.
 
@@ -30,6 +33,8 @@ credits
 - Gijs Molenaar
 - Stephan Preeker.  *I'm available for consulting work to help you do integration with siemens PLC's. stephan at preeker dot net*
 
+I'd like to continue support of this libary but currently don't have access to current siemens PLC's.  If you have a spare
+one that would be very helpfull! preeker at protonmail dot com.
 
 Special thanks to
 =================
